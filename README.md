@@ -1,0 +1,1 @@
+This library contains several methods to aid in color analysis of a picture hosted on imgix
